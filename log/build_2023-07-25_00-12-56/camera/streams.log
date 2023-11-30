@@ -1,0 +1,24 @@
+[0.355s] Invoking command in '/home/gizemgunes/ros2_ws/src/camera': PYTHONPATH=/home/gizemgunes/ros2_ws/build/camera/prefix_override:/home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera build --build-base /home/gizemgunes/ros2_ws/build/camera/build install --record /home/gizemgunes/ros2_ws/build/camera/install.log --single-version-externally-managed
+[0.493s] running egg_info
+[0.493s] writing ../../build/camera/camera.egg-info/PKG-INFO
+[0.493s] writing dependency_links to ../../build/camera/camera.egg-info/dependency_links.txt
+[0.494s] writing entry points to ../../build/camera/camera.egg-info/entry_points.txt
+[0.494s] writing requirements to ../../build/camera/camera.egg-info/requires.txt
+[0.494s] writing top-level names to ../../build/camera/camera.egg-info/top_level.txt
+[0.495s] reading manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[0.495s] writing manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[0.495s] running build
+[0.495s] running build_py
+[0.495s] copying camera/camera_motor.py -> /home/gizemgunes/ros2_ws/build/camera/build/lib/camera
+[0.496s] running install
+[0.496s] running install_lib
+[0.496s] copying /home/gizemgunes/ros2_ws/build/camera/build/lib/camera/camera_motor.py -> /home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera
+[0.497s] byte-compiling /home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera/camera_motor.py to camera_motor.cpython-310.pyc
+[0.497s] running install_data
+[0.497s] running install_egg_info
+[0.498s] removing '/home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info' (and everything under it)
+[0.498s] Copying ../../build/camera/camera.egg-info to /home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info
+[0.499s] running install_scripts
+[0.511s] Installing camera_motor script to /home/gizemgunes/ros2_ws/install/camera/lib/camera
+[0.511s] writing list of installed files to '/home/gizemgunes/ros2_ws/build/camera/install.log'
+[0.530s] Invoked command in '/home/gizemgunes/ros2_ws/src/camera' returned '0': PYTHONPATH=/home/gizemgunes/ros2_ws/build/camera/prefix_override:/home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera build --build-base /home/gizemgunes/ros2_ws/build/camera/build install --record /home/gizemgunes/ros2_ws/build/camera/install.log --single-version-externally-managed

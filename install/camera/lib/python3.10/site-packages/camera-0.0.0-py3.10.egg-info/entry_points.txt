@@ -1,0 +1,5 @@
+[console_scripts]
+camera_motor = camera.camera_motor:main
+client = camera.client:main
+facedetection = camera.facedetecion:facedetect
+

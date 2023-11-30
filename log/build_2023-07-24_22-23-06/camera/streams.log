@@ -1,0 +1,39 @@
+[0.370s] Invoking command in '/home/gizemgunes/ros2_ws/src/camera': PYTHONPATH=/home/gizemgunes/ros2_ws/build/camera/prefix_override:/home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera build --build-base /home/gizemgunes/ros2_ws/build/camera/build install --record /home/gizemgunes/ros2_ws/build/camera/install.log --single-version-externally-managed
+[0.497s] running egg_info
+[0.497s] creating ../../build/camera/camera.egg-info
+[0.497s] writing ../../build/camera/camera.egg-info/PKG-INFO
+[0.497s] writing dependency_links to ../../build/camera/camera.egg-info/dependency_links.txt
+[0.497s] writing entry points to ../../build/camera/camera.egg-info/entry_points.txt
+[0.498s] writing requirements to ../../build/camera/camera.egg-info/requires.txt
+[0.498s] writing top-level names to ../../build/camera/camera.egg-info/top_level.txt
+[0.498s] writing manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[0.498s] reading manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[0.499s] writing manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[0.499s] running build
+[0.499s] running build_py
+[0.499s] creating /home/gizemgunes/ros2_ws/build/camera/build
+[0.499s] creating /home/gizemgunes/ros2_ws/build/camera/build/lib
+[0.499s] creating /home/gizemgunes/ros2_ws/build/camera/build/lib/camera
+[0.499s] copying camera/camera_motor.py -> /home/gizemgunes/ros2_ws/build/camera/build/lib/camera
+[0.499s] copying camera/__init__.py -> /home/gizemgunes/ros2_ws/build/camera/build/lib/camera
+[0.499s] running install
+[0.507s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.507s]   warnings.warn(
+[0.507s] running install_lib
+[0.507s] creating /home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera
+[0.507s] copying /home/gizemgunes/ros2_ws/build/camera/build/lib/camera/camera_motor.py -> /home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera
+[0.508s] copying /home/gizemgunes/ros2_ws/build/camera/build/lib/camera/__init__.py -> /home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera
+[0.508s] byte-compiling /home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera/camera_motor.py to camera_motor.cpython-310.pyc
+[0.508s] byte-compiling /home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera/__init__.py to __init__.cpython-310.pyc
+[0.508s] running install_data
+[0.508s] creating /home/gizemgunes/ros2_ws/install/camera/share/ament_index
+[0.508s] creating /home/gizemgunes/ros2_ws/install/camera/share/ament_index/resource_index
+[0.508s] creating /home/gizemgunes/ros2_ws/install/camera/share/ament_index/resource_index/packages
+[0.508s] copying resource/camera -> /home/gizemgunes/ros2_ws/install/camera/share/ament_index/resource_index/packages
+[0.508s] copying package.xml -> /home/gizemgunes/ros2_ws/install/camera/share/camera
+[0.508s] running install_egg_info
+[0.509s] Copying ../../build/camera/camera.egg-info to /home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info
+[0.509s] running install_scripts
+[0.521s] Installing camera_motor script to /home/gizemgunes/ros2_ws/install/camera/lib/camera
+[0.522s] writing list of installed files to '/home/gizemgunes/ros2_ws/build/camera/install.log'
+[0.538s] Invoked command in '/home/gizemgunes/ros2_ws/src/camera' returned '0': PYTHONPATH=/home/gizemgunes/ros2_ws/build/camera/prefix_override:/home/gizemgunes/ros2_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera build --build-base /home/gizemgunes/ros2_ws/build/camera/build install --record /home/gizemgunes/ros2_ws/build/camera/install.log --single-version-externally-managed
