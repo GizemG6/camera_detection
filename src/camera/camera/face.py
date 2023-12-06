@@ -17,10 +17,10 @@ while True:
         if cv2.rectangle:
             print("yüz var")
 
-    # cv2.imshow("face",frame)
+    cv2.imshow("face",frame)
 
-    # if cv2.waitKey(1) & 0xFF==ord("q"):
-      # break
+    if cv2.waitKey(1) & 0xFF==ord("q"):
+      break
 
-#cap.release()
-#cv2.destroyAllWindows()
+cap.release()
+cv2.destroyAllWindows()
